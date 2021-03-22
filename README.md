@@ -1,2 +1,4 @@
-################## Firebase
-###have to add firebase hosting instead of netlify
+################## Firebase ####
+
+
+Have to add firebase hosting instead of netlify
