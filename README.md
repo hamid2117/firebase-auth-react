@@ -1,4 +1,6 @@
-################## Firebase ####
+## Firebase 
 
 
-Have to add firebase hosting instead of netlify
+Firebase auth 
+
+https://firebase-auth-react-2117.netlify.app/
